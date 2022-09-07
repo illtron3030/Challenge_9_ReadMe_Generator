@@ -18,19 +18,19 @@ const questions = () => {
       type: "input",
       name: "description",
       message:
-        "Enter a descritpion of you project.  Make sure you save BEFORE closing the editor when finished.",
+        "Enter a descritpion of you project.",
     },
     {
       type: "input",
       name: "install",
       message:
-        "Enter intallation instructions for your project.  Make sure you save BEFORE closing the editor when finished.",
+        "Enter intallation instructions for your project.",
     },
     {
       type: "input",
       name: "usage",
       message:
-        "Enter usage instructions for your project.  Make sure you save BEFORE closing the editor when finished.",
+        "Enter usage instructions for your project.",
     },
     {
       type: "input",
