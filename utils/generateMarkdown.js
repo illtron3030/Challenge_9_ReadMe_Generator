@@ -87,9 +87,8 @@ ${licenseLink}
  ## Questions
  You can view my GitHub profile at https://github.com/${data.gitHub}
  
- If you have additonal queations you can email me at ${data.email} `;
+ If you have additonal questions you can email me at ${data.email} `;
 }
 
 //export the generateMarkdown function
-
 module.exports = generateMarkdown;

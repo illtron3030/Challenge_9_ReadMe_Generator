@@ -24,7 +24,7 @@ const questions = () => {
       type: "input",
       name: "install",
       message:
-        "Enter intallation instructions for your project.",
+        "Enter installation instructions for your project.",
     },
     {
       type: "input",
