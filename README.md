@@ -1,9 +1,9 @@
-# poo
+# zebra
 
-  ![license](https://img.shields.io/static/v1?label=license&message=Mozilla&color=brightgreen)
+  ![license](https://img.shields.io/static/v1?label=license&message=BSD&color=brightgreen)
 
   ## Description
- poo
+ stripes
  
  ## Table of Contents
  
@@ -15,23 +15,23 @@
  * [Questions](#Questions)
  
  ## Installation
- po
+ command line
  
  ## Usage
- 
+ answer questions
  
  ## Contributing
- poo
+ undefined
  
  ## Tests
- poooooooo
+ undefined
  
  ## License
-Licensed under Mozilla Public License 2.0
+Licensed under BSD 2-Clause 'Simplified' or 'FreeBSD' license
 
-https://opensource.org/licenses/MPL-2.0
+https://opensource.org/licenses/BSD-2-Clause
  
  ## Questions
- You can view my GitHub profile at https://github.com/9090
+ You can view my GitHub profile at https://github.com/illtron3030
  
- If you have additonal questions you can email me at ioioio 
+ If you have additonal questions you can email me at illtron3030@gmail.com 
