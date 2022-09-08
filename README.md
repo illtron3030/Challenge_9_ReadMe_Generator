@@ -1,9 +1,9 @@
-# moma
+# poo
 
-  ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen)
+  ![license](https://img.shields.io/static/v1?label=license&message=Mozilla&color=brightgreen)
 
   ## Description
- ppppppp
+ poo
  
  ## Table of Contents
  
@@ -15,23 +15,23 @@
  * [Questions](#Questions)
  
  ## Installation
- dfdfdfdf
+ po
  
  ## Usage
- dfdfdf
+ 
  
  ## Contributing
- ppppppp
+ poo
  
  ## Tests
- undefined
+ poooooooo
  
  ## License
-Licensed under MIT license
+Licensed under Mozilla Public License 2.0
 
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/MPL-2.0
  
  ## Questions
- You can view my GitHub profile at https://github.com/illtron3030
+ You can view my GitHub profile at https://github.com/9090
  
- If you have additonal questions you can email me at 3030@gmail.com 
+ If you have additonal questions you can email me at ioioio 

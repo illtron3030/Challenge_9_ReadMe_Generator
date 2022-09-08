@@ -1,5 +1,4 @@
 // TODO: Include packages needed for this application
-
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
@@ -17,26 +16,27 @@ const questions = () => {
     {
       type: "input",
       name: "description",
-      message:
-        "Enter a descritpion of you project.",
+      message: "Enter a descritpion of you project.",
     },
     {
       type: "input",
       name: "install",
-      message:
-        "Enter installation instructions for your project.",
+      message: "Enter installation instructions for your project.",
     },
     {
       type: "input",
       name: "usage",
-      message:
-        "Enter usage instructions for your project.",
+      message: "Enter usage instructions for your project.",
     },
     {
       type: "input",
       name: "contribution",
-      message:
-        "Enter contribution guidelines for your project.  Make sure you save BEFORE closing the editor when finished.",
+      message:  "Enter contribution guidelines for your project.",
+    },
+    {
+      type: "input",
+      name: "test",
+      message: "Enter how to run or test your project.  Make sure you save BEFORE closing the editor when finished.",
     },
     {
       type: "list",
