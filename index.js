@@ -3,7 +3,6 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown");
-//const writeFileAsync = util.promisify(fs.writefile);
 
 // TODO: Create an array of questions for user input
 const questions = () => {
@@ -31,12 +30,12 @@ const questions = () => {
     {
       type: "input",
       name: "contribution",
-      message:  "Enter contribution guidelines for your project.",
+      message: "Enter contribution guidelines for your project.",
     },
     {
       type: "input",
       name: "test",
-      message: "Enter how to run or test your project.  Make sure you save BEFORE closing the editor when finished.",
+      message: "Enter how to run or test your project.",
     },
     {
       type: "list",
@@ -76,7 +75,7 @@ const questions = () => {
 const writeToFile = async (fileName, data) => {
   try {
     fs.writeFileSync(fileName, data);
-    console.log("Your Readme.md is finished.");
+    console.log("Your Readme.md is finished! Please remember to save it!");
   } catch (err) {
     console.log(err);
     console.log("An error was made writing your file");
